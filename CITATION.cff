@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+authors:
+  - family-names: "Varvatsouli"
+    given-names: "Danai"
+title: "Glacier Mass Analysis"
+type: software
+repository-code: "https://github.com/danaevar/glacier-mass-analysis"
+license: MIT
